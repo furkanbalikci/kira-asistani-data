@@ -1,0 +1,31 @@
+{
+  "_uyari": "DİKKAT: BU DOSYADAKİ TÜM DEĞERLER ÖRNEK VERİDİR (PLACEHOLDER). YAYINA ALMADAN ÖNCE TÜİK'İN GÜNCEL TÜFE VERİLERİYLE DEĞİŞTİRİN. Bkz: data/GUNCELLEME.md",
+  "guncelleme_tarihi": "2026-07-03",
+  "veriler": [
+    {"yil": 2024, "ay": 7, "aylik": 3.2, "yillik": 61.8, "oniki_ay_ortalama": 65.1},
+    {"yil": 2024, "ay": 8, "aylik": 2.5, "yillik": 52.0, "oniki_ay_ortalama": 64.0},
+    {"yil": 2024, "ay": 9, "aylik": 3.0, "yillik": 49.4, "oniki_ay_ortalama": 62.5},
+    {"yil": 2024, "ay": 10, "aylik": 2.9, "yillik": 48.6, "oniki_ay_ortalama": 60.9},
+    {"yil": 2024, "ay": 11, "aylik": 2.2, "yillik": 47.1, "oniki_ay_ortalama": 58.8},
+    {"yil": 2024, "ay": 12, "aylik": 1.0, "yillik": 44.4, "oniki_ay_ortalama": 58.5},
+    {"yil": 2025, "ay": 1, "aylik": 5.0, "yillik": 42.1, "oniki_ay_ortalama": 56.7},
+    {"yil": 2025, "ay": 2, "aylik": 2.3, "yillik": 39.1, "oniki_ay_ortalama": 54.4},
+    {"yil": 2025, "ay": 3, "aylik": 2.5, "yillik": 38.1, "oniki_ay_ortalama": 51.9},
+    {"yil": 2025, "ay": 4, "aylik": 3.0, "yillik": 37.9, "oniki_ay_ortalama": 49.4},
+    {"yil": 2025, "ay": 5, "aylik": 1.5, "yillik": 35.4, "oniki_ay_ortalama": 46.7},
+    {"yil": 2025, "ay": 6, "aylik": 1.4, "yillik": 35.0, "oniki_ay_ortalama": 44.4},
+    {"yil": 2025, "ay": 7, "aylik": 2.1, "yillik": 33.5, "oniki_ay_ortalama": 42.3},
+    {"yil": 2025, "ay": 8, "aylik": 2.0, "yillik": 33.0, "oniki_ay_ortalama": 40.6},
+    {"yil": 2025, "ay": 9, "aylik": 2.9, "yillik": 32.9, "oniki_ay_ortalama": 39.2},
+    {"yil": 2025, "ay": 10, "aylik": 2.6, "yillik": 32.5, "oniki_ay_ortalama": 38.0},
+    {"yil": 2025, "ay": 11, "aylik": 1.8, "yillik": 32.0, "oniki_ay_ortalama": 36.9},
+    {"yil": 2025, "ay": 12, "aylik": 1.1, "yillik": 32.1, "oniki_ay_ortalama": 36.1},
+    {"yil": 2026, "ay": 1, "aylik": 4.2, "yillik": 31.1, "oniki_ay_ortalama": 35.2},
+    {"yil": 2026, "ay": 2, "aylik": 2.1, "yillik": 30.8, "oniki_ay_ortalama": 34.5},
+    {"yil": 2026, "ay": 3, "aylik": 2.3, "yillik": 30.6, "oniki_ay_ortalama": 33.9},
+    {"yil": 2026, "ay": 4, "aylik": 2.7, "yillik": 30.2, "oniki_ay_ortalama": 33.3},
+    {"yil": 2026, "ay": 5, "aylik": 1.6, "yillik": 30.3, "oniki_ay_ortalama": 32.8},
+    {"yil": 2026, "ay": 6, "aylik": 2.1, "yillik": 35.4, "oniki_ay_ortalama": 41.2},
+    {"yil": 2026, "ay": 7, "aylik": 0.99, "yillik": 32.1, "oniki_ay_ortalama": 32.0}
+  ]
+}
