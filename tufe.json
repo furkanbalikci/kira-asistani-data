@@ -1,6 +1,6 @@
 {
   "kaynak": "TÜİK, Tüketici Fiyat Endeksi (2025=100)",
-  "guncelleme_tarihi": "2026-07-03",
+  "guncelleme_tarihi": "2026-08-03",
   "veriler": [
     {"yil": 2022, "ay": 1, "aylik": 11.1, "yillik": 48.69, "oniki_ay_ortalama": 22.58},
     {"yil": 2022, "ay": 2, "aylik": 4.81, "yillik": 54.44, "oniki_ay_ortalama": 25.98},
